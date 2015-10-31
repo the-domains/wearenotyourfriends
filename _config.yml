@@ -1,0 +1,23 @@
+name: WeAreNotYourFriends
+favicon: null
+layout_spectrum: 0.02530442364513874
+typography_spectrum: 0.729884538333863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5822233550716192
+  lightness: 0.15791755029931664
+  saturation: 0.9436599304899573
+  rhythmicContrast: 0.9701997074298561
+purpose: []
